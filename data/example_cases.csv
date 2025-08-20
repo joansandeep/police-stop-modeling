@@ -1,0 +1,11 @@
+subject_age,lat,lng,subject_race,subject_sex,district,reason_for_stop
+24,37.7749,-122.4194,black,male,A,Moving Violation
+42,37.78,-122.42,asian/pacific islander,female,B,Equipment Violation
+31,37.76,-122.41,white,male,C,Other
+61,37.799,-122.4321,hispanic,female,D,Investigation
+19,37.754,-122.404,black,female,E,Moving Violation
+55,37.7699,-122.4299,white,female,F,Equipment Violation
+22,37.795,-122.4195,asian/pacific islander,male,G,Mechanical Violation
+37,37.7821,-122.4181,hispanic,male,A,Equipment Violation
+48,37.7705,-122.4175,white,female,B,Moving Violation
+33,37.7632,-122.4275,black,male,D,Investigation
